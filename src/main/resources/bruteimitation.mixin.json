@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "io.github.haykam821.bruteimitation.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"ParrotEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

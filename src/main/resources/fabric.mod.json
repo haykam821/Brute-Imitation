@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "bruteimitation",
+	"version": "${version}",
+	"name": "Brute Imitation",
+	"description": "Allows parrots to imitate piglin brutes.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Brute-Imitation#readme",
+		"issues": "https://github.com/haykam821/Brute-Imitation/issues"
+	},
+	"mixins": [
+		"bruteimitation.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/bruteimitation/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
