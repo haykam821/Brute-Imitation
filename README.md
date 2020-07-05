@@ -5,3 +5,14 @@
 [![Discord](https://img.shields.io/static/v1?style=popout&label=chat&message=discord&color=7289DA)](https://discord.gg/eXcffmW)
 
 Allows parrots to imitate piglin brutes.
+
+Brute Imitation requires the [Fabric modloader](https://fabricmc.net/use/).
+
+## Installation
+
+1. Download Brute Imitation from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brute-imitation/files) or [GitHub](https://github.com/haykam821/Brute-Imitation/releases).
+2. Place the downloaded file in your `mods` folder.
+
+## Usage
+
+Parrots will be able to imitate piglin brutes, fixing [MC-193659](https://bugs.mojang.com/browse/MC-193659).
